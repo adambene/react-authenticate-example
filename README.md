@@ -2,7 +2,7 @@
 
 ## Usage
 
-download
-npm install
-npm start
-open index.html
+1. download
+2. npm install
+3. npm start
+4. open index.html
